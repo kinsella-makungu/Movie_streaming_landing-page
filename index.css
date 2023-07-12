@@ -1,0 +1,61 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+.hero{
+ 
+color:rgb(249, 248, 247);
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+
+
+}
+.nav{
+    justify-content:space-between;
+    margin-bottom: 20%
+    
+    
+}
+.cin{
+    font-size: 2em;
+    font-weight: 800;
+    color: orangered;
+}
+.absolute{
+    position: absolute;
+    width: 100%;
+    margin-bottom: 20%;
+   
+    
+    
+}
+.image{
+    position: relative;
+    filter: brightness(30%);
+}
+.un{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    font-size: 2em;
+    
+}
+.watch{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: .9em;
+}
+.cntnt{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+
+
+}
+.frm{
+    display: flex;
+    justify-content: center;
+}
