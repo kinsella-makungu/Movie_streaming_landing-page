@@ -59,3 +59,46 @@ align-items: center;
     display: flex;
     justify-content: center;
 }
+
+
+
+
+
+.main_container{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 4em;
+    
+}
+.green{
+    color: green;
+    font-size: 1.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center; 
+}
+.para_watch{
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    color: black;
+}
+
+span{
+        color: white;
+        font-size: 2em;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        display: flex;
+        align-items: center;
+        justify-items: center;
+        justify-content: center;
+        color: black;
+}
+.card-img-top{
+    height: 18em;
+    
+    
+}
